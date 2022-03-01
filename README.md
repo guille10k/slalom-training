@@ -5,11 +5,15 @@
 - User level: athlete (mobile oriented), director (desktop oriented), coach (both)
 
 
-User management
 
+User management
 - User management into 4 levels: athlete, coach, medical, director
 - Language associated with each user
 - Users shared with slalommanager (fantasy DB)
 - Users associated with a slalomstats profile (cbca DB)
 
+Dashboard
+- Different dashboard view for each user level (4)
 
+Athlete form
+- Introducing session data

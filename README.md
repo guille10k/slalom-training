@@ -6,9 +6,10 @@
 
 
 User management
--User management into 4 levels: athlete, coach, medical, director
--Language associated with each user
--Users shared with slalommanager (fantasy DB)
--Users associated with a slalomstats profile (cbca DB)
+
+- User management into 4 levels: athlete, coach, medical, director
+- Language associated with each user
+- Users shared with slalommanager (fantasy DB)
+- Users associated with a slalomstats profile (cbca DB)
 
 
